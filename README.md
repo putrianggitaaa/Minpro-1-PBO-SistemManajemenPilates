@@ -163,7 +163,7 @@ Pada sub menu ini, sistem akan memngarahkan pengguna untuk menginput ID kelas ya
 Pada sub menu ini, pengguna dapat kembali ke menu utama program.
 
 
-### **Keluar**
+### **5. Keluar**
 <img width="587" height="491" alt="image" src="https://github.com/user-attachments/assets/70d8bf4c-c7f2-4f02-bcbe-39b0d4d8a9e2" />
 
 Pada menu ini, pengguna akan diarahkan untuk keluar dari sistem.
