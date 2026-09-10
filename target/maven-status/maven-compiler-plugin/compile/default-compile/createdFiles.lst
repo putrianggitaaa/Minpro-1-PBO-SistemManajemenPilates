@@ -1,0 +1,6 @@
+model\Instruktur.class
+servicee\Service.class
+model\JenisKelas.class
+model\Member.class
+model\KelasPilates.class
+mainn\Pilates.class
